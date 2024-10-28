@@ -2,7 +2,7 @@
 # 👋 Benvenuti sul GitHub di Daniele Calì
 Ciao! Mi chiamo Daniele, e sono uno sviluppatore web con una grande passione per la **tecnologia** 📱 e la **musica** 🎧 
 
-Avendo un background sulla produzione musicale alle spalle, ho deciso di abbracciare il mondo della **programmazione** e di usare la mia creatività in ambito tech per poter dare finalmente vita ai miei progetti! 
+Avendo un background sulla produzione musicale alle spalle, ho deciso di abbracciare il mondo della **programmazione** e di usare la mia creatività in ambito tech per poter finalmente dare vita ai miei progetti! 
 
 ---
 
